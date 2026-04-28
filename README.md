@@ -3,8 +3,7 @@
 JPedal is a pure Java PDF library to provide Java Developers with the 
 abilities to work with PDF files directly from Java. JPedal makes a 
 wide range of PDF processing tasks simple to solve in a few lines of 
-code. This section contains code samples to solve many common PDF 
-problems along with FAQs, hints and details of all releases.
+code.
 
 JPedal provides several methods to allow easy extraction of images 
 from a PDF document. There are two provided examples which demonstrate
